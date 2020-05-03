@@ -21,7 +21,7 @@ The task is episodic, and in order to solve the environment, **agent must get an
 
 ## Getting Started
 - First of all you need to configure a Python 3.6 environment with the needed requirements as described in below:
-  1. Create (and activate) a new environment with Python 3.6.
+1. Create (and activate) a new environment with Python 3.6.
 
 	- __Linux__ or __Mac__: 
 	```bash
