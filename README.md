@@ -66,6 +66,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 ## Report
 ### Algorithm
 The agent is trained by using vanilla Deep Q Learning algorithm. The deep neural network has following layers:
+
     - Fully Connected Layers (input: 37, output: 64)
     - Fully Connected Layers (input: 64, output: 32)
     - Fully Connected Layers (input: 32, output: 4)
