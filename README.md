@@ -72,6 +72,7 @@ The agent is trained by using vanilla Deep Q Learning algorithm. The deep neural
     - Fully Connected Layers (input: 32, output: 4)
     
  Parameters:
+ 
     - Gamma: 0.99
     - Alpha (Learning Rate): 0.001
     - Epsilon: 1.0
