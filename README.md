@@ -27,7 +27,7 @@ The task is episodic, and in order to solve the environment, **agent must get an
 
 	- __Linux__ or __Mac__: 
 	```bash
-	conda create --name banana_navigation python=3.6
+	conda create --name drlnd python=3.6
 	source activate drlnd
 	```
 	- __Windows__: 
